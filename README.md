@@ -93,8 +93,12 @@ Este projeto demonstra a aplicação de análise de dados para transformar métr
 - Excel / CSV
 
 ## 📷 Dashboard
-![Visão Geral](<img width="1332" height="751" alt="img1" src="https://github.com/user-attachments/assets/9cc2ca5e-4a93-4d1d-a13c-f0a6dc0c939e" />)
-![Desempenho das Campanhas](<img width="1332" height="747" alt="img2" src="https://github.com/user-attachments/assets/218da0d5-f00a-43ad-bd1c-a3106166b145" />)
-![Desempenho das Campanhas - pt 2](<img width="1328" height="747" alt="img3" src="https://github.com/user-attachments/assets/f303292a-0064-4253-86e9-931705ae3703" />)
-![Funil + Conversões](<img width="1331" height="742" alt="img4" src="https://github.com/user-attachments/assets/5d503fdb-de31-47c6-938c-dfa78498d33e" />)
-![Financeiro](<img width="1327" height="743" alt="img5" src="https://github.com/user-attachments/assets/298f393d-5be9-45ed-9274-2dc4ee201ee4" />)
+![Visão Geral](img1.png) 
+
+![Desempenho das Campanhas](img2.png)
+
+![Desempenho das Campanhas - pt 2](img3.png)
+
+![Funil + Conversões](img4.png)
+
+![Financeiro](img5.png)
