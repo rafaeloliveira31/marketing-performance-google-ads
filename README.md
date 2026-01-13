@@ -93,12 +93,12 @@ Este projeto demonstra a aplicação de análise de dados para transformar métr
 - Excel / CSV
 
 ## 📷 Dashboard
-![Visão Geral](img1.png) 
+![Visão Geral](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img1.png?raw=true) 
 
-![Desempenho das Campanhas](img2.png)
+![Desempenho das Campanhas](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img2.png?raw=true)
 
-![Desempenho das Campanhas - pt 2](img3.png)
+![Desempenho das Campanhas - pt 2](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img3.png?raw=true)
 
-![Funil + Conversões](img4.png)
+![Funil + Conversões](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img4.png?raw=true)
 
-![Financeiro](img5.png)
+![Financeiro](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img5.png?raw=true)
