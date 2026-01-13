@@ -102,3 +102,8 @@ Este projeto demonstra a aplicação de análise de dados para transformar métr
 ![Funil + Conversões](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img4.png?raw=true)
 
 ![Financeiro](https://github.com/rafaeloliveira31/marketing-performance-google-ads/blob/main/img/img5.png?raw=true)
+
+## 🔗 Dashboard interativo completo:
+https://app.powerbi.com/groups/me/reports/4f936121-f3f0-4927-ac49-172b7dea0f9d?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare
+
+📬 Caso queira acessar o arquivo `.pbix` ou discutir melhorias no dashboard, fico à disposição.
